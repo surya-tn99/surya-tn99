@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+![GitHub Calendar](https://ghchart.rshah.org/00ff7f/surya-tn99)
+![GitHub Contribution Calendar](https://github-readme-activity-graph.vercel.app/graph?username=surya-tn99&theme=react-dark&hide_border=false)
+
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/surya_24.23) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/surya-tn99) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Historical_Honey_402) 
 
