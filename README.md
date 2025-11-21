@@ -1,10 +1,6 @@
 ## Hi there 👋
 I'm Balasurya 🎓 Tech Explorer
 
-    🎓 Currently pursuing Bachelor of Technology (IT) @ Sri Ramakrishna Engineering College, Coimbatore
-    ⚡ Fun fact: I enjoy exploring tech trends
-
-
 ![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=surya-tn99&theme=github_dark)
 
 ## 🌐 Socials:
