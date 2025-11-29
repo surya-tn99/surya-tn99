@@ -1,10 +1,11 @@
 ## Hi there 👋
+
 I'm Balasurya 🎓 Tech Explorer
 
-**📌 Current Focus:** Leveling up in Node.js and modern JS backend frameworks.
+**📌 ** Current Focus: Leveling up in Node.js and modern JS backend frameworks.
 
 ![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=surya-tn99&theme=github_dark)
-
+---
 
 ##  Technical Skills
 
