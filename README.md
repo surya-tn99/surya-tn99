@@ -4,7 +4,8 @@
 
 ## About Me
 
-<img align="right" width="280" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+
+<br/>
 
 ```java
 public class Balasurya {
@@ -19,7 +20,6 @@ public class Balasurya {
 }
 ```
 
-<br clear="right"/>
 ##  Streak Stats
 
 <div align="center">
