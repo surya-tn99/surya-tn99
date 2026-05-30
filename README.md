@@ -2,17 +2,15 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,27&height=180&section=header&text=Balasurya%20S&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Backend%20Engineer%20%7C%20Building%20Scalable%20Systems%20from%20Scratch&descAlignY=62&descSize=16" width="100%"/>
 </p>
 
-##  About Me
+## About Me
 
 <img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 ```java
 public class Balasurya {
-
     String name        = "Balasurya S";
     String location    = "Tamil Nadu, India 🇮🇳";
     String degree      = "B.Tech IT — SREC";
-
     String[] stack = {
         "Python", "JavaScript", "Java", "C", "C++",
         "FastAPI", "Node.js / Express.js", "Flask",
